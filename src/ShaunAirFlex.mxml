@@ -2,15 +2,6 @@
 
 <!-- 
 
-UPDATES:
-- temporary fix for m.aflat.jp encoding error.
-- avoid loading the same url twice or infinite loading loop in some cases.
-- partial support for viewport meta tags. (width, user-scalable, initial-scale, maximum-scale, minimum-scale)
-- support for auto content scale for iphone mode.
-- change default view to iphone portrait
-
-...................
-
 iBBDemo3 is a fork of iBBDemo2 (http://ibbdemo2.googlecode.com/svn/trunk, Revision 20)
 Copyright (c) 2011 apptaro
 
